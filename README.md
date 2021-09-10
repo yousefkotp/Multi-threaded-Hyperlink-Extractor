@@ -6,7 +6,6 @@ The program can work recursively where it extract all links inside each one of t
 
 ![Screenshot (123)](https://user-images.githubusercontent.com/41492875/132783310-8e525244-5a73-4676-a1b5-bb9b05d0640b.png)
 
-![Screenshot (298)](https://user-images.githubusercontent.com/41492875/132783356-6b49452d-706b-4011-870a-943a746b4262.png)
 
 ![Screenshot (125)](https://user-images.githubusercontent.com/41492875/132783379-7a8b79ef-58ac-4c94-84fb-1ebfa123b55f.png)
 
