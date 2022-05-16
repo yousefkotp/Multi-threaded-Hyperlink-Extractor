@@ -1,7 +1,21 @@
 # Multi-threaded-Hyperlink-Extractor
 Multi-threaded Hyperlink Extractor which check the validity of each hyperlink inside the provided URL with the desired number of threads.
-The program can work recursively where it extract all links inside each one of the valid links found in first search.
+The program can work recursively where it extract all links inside each one of the valid links found in first search. This can be done by changing depth value. (starting from 0)
+## Table of Contents
+- [Multi-threaded-Hyperlink-Extractor](#multi-threaded-hyperlink-extractor)
+  * [Tools](#tools)
+  * [Author](#author)
+  * [Screenshots](#screenshots)
+## Tools
+1. Java
+2. Jsoup
+3. Java.Swing
+4. Threads
 
+## Author
+[Yousef Kotp](https://github.com/yousefkotp)
+
+## Screenshots
 ![Screenshot (122)](https://user-images.githubusercontent.com/41492875/132783230-aadad71d-9ab1-432a-9193-089062058fcf.png)
 
 ![Screenshot (123)](https://user-images.githubusercontent.com/41492875/132783310-8e525244-5a73-4676-a1b5-bb9b05d0640b.png)
