@@ -11,6 +11,7 @@ The program can work recursively where it extract all links inside each one of t
 2. Jsoup
 3. Java.Swing
 4. Threads
+5. IntelliJ IDEA (IDE)
 
 ## Author
 [Yousef Kotp](https://github.com/yousefkotp)
